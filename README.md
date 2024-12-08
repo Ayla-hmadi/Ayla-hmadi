@@ -74,3 +74,82 @@
 <img src="https://raw.githubusercontent.com/ayla-hmadi/ayla-hmadi/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## Featured Projects
+
+### [EcoHabit](https://github.com/EcoHabit)
+An Agritech Solution for city dwellers. With AI and AR features to aid city dwellers to build their garden 100% more
+efficiently.
+- **Key Features**:
+    - AR Garden Planning
+- **Tech Stack**: 
+  - React
+  - Flutter
+  - Nodejs in Typescript
+  - Express
+  - PostgreSQL
+- **Architecture**: Microsercvices
+
+### [Need2Give](https://github.com/Hacktivists-AUB)
+A mobile app to connect donors/donation centers with people in need of these donations, increasing donations by 150%
+- **Impact**: Increase in donations rate and reach for people and donation centers by 400%
+- **Tech Stack**:
+  - Flutter
+  - Nodejs in Typescript
+  - Express
+  - PostgreSQL
+- **Architecture**: SOA
+
+### [EduMate](https://github.com/EduTeamEduMate)
+A mobile app for students to generate exam questions from notes from images, pdfs or text using the help of AI
+- **Tech Stack**:
+  - Android Kotlin
+  - FastAPI
+  - SQLITE
+  - Chatgpt API
+- **Architecture**: SOA
+
+### Y - [Y-Server](https://github.com/Ayla-hmadi/Y_CMPS_242_Server) - [Y-Client](https://github.com/Ayla-hmadi/Y_CMPS_242_Client)
+A mobile app for students to generate exam questions from notes from images, pdfs or text using the help of AI
+- **Tech Stack**:
+  - Java
+- **Architecture**: Monolith
+
+### Songify
+Music website for online streaming and listening
+- **Tech Stack**:
+  -  React.js
+  -  SQLite
+  -  Firebase
+  -  Shazam API
+- **Architecture**: Monolith
+
+
+### [Ivargrand](https://ivargrand.com/)
+A freelance project for a company in Dubai to display their oil business and the company increasing sales by 120%
+- **Tech Stack**:
+  -  React
+  -  Nodejs
+  -  PostgreSQL
+  -  Express
+- **Architecture**: SOA
+
+### [S-Medical Center](https://s-medical-center-frontend.vercel.app/)
+A freelancing application to streamline patient/doctor communication, where users can check different doctors, chat and
+schedule an appointment according to each doctor’s availability.
+- **Tech Stack**:
+  -  React
+  -  Nodejs
+  -  PostgreSQL
+  -  Express
+- **Architecture**: SOA
+
+
+### [Higgs Boson Discovery Using Machine Learning](https://github.com/JJoellee/Artificial-Minds)
+A project that aims to discover Higgs Bosons from high-energy particle collisions at the Large Hadron Collider (LHC) using
+machine learning techniques.
+
+Trained and compared various machine learning models, including XGBoost, Gradient Boosting Classifier, and deep learning
+models with different architectures. The best performing model was a deep learning model with 4 hidden layers of 1,024,
+512, 256, and 128 neurons respectively, achieving an accuracy of 75.96% on the testing set and 76.4% on the training set with
+a validation accuracy of 76.6%
