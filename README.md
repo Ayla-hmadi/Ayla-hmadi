@@ -1,8 +1,4 @@
 <h2 align="left">Hi 👋! My name is Ayla Hmadi and I'm a Software Engineer</h2>
----
-
-![](https://komarev.com/ghpvc/?username=Ayla-hmadi&color=fb4362)
-
 
 ###
 
